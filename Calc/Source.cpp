@@ -18,4 +18,5 @@ void main()
 		cout << a << "/" << b << "=" << a / b << endl;
 	else
 		cout << "Error: NoOperation" << endl;
+	main();
 }
